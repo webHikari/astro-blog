@@ -1,5 +1,5 @@
 {
-  "name": "@example/minimal",
+  "name": "astro-blog",
   "type": "module",
   "version": "0.0.1",
   "private": true,
@@ -11,6 +11,6 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^4.10.3"
+    "astro": "^1.9.1"
   }
 }
